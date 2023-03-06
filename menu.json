@@ -1,0 +1,84 @@
+[
+   {
+      "foods": [
+         {
+            "name": "Manti",
+            "price": 20000
+         },
+         {
+            "name": "Somsa",
+            "price": 7000
+         },
+         {
+            "name": "Osh",
+            "price": 24000
+         },
+         {
+            "name": "Norin",
+            "price": 34000
+         },
+         {
+            "name": "Tandir",
+            "price": 100000
+         },
+         {
+            "name": "Shashlik",
+            "price": 13000
+         },
+         {
+            "name": "Do'lma",
+            "price": 12000
+         },
+         {
+            "name": "Lavash",
+            "price": 21000
+         },
+         {
+            "name": "Burger",
+            "price": 12000
+         },
+         {
+            "name": "Norin",
+            "price": 12000
+         },
+         {
+            "name": "Pirog",
+            "price": 5000
+         }
+      ],
+      "drinks": [
+         {
+            "name": "Coca-cola",
+            "price": 11000
+         },
+         {
+            "name": "Pepsi",
+            "price": 12000
+         },
+         {
+            "name": "Fanta",
+            "price": 10000
+         },
+         {
+            "name": "Dena",
+            "price": 8000
+         },
+         {
+            "name": "Suv",
+            "price": 4000
+         },
+         {
+            "name": "Flash",
+            "price": 1000
+         },
+         {
+            "name": "Redbool",
+            "price": 25000
+         },
+         {
+            "name": "ydrolifeH",
+            "price": 12
+         }
+      ]
+   }
+]
